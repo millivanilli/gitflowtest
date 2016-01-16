@@ -1,1 +1,2 @@
 add-user
+Bug fixed by 1.0.1
